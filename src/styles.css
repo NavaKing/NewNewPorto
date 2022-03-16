@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    
 }
 section {
     
@@ -13,13 +14,13 @@ section {
     height: 100vh;
     color: white;
     font-size: 40px;
+    overflow: hidden;
 }
 
 footer {
     padding: 80px;
     color: white;
     text-align: center;
-
     background-color: black;
 }
 
